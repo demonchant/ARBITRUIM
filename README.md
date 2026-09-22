@@ -1,5 +1,7 @@
 # FlowGuard Protocol
 
+For the public Arbitrum Sepolia beta launch, see [the testnet handover](docs/TESTNET_HANDOVER.md).
+
 FlowGuard is programmable proof-of-delivery settlement for African SME trade. A buyer escrows a stablecoin payment, a supplier anchors an encrypted delivery-evidence hash, selected independent attestors verify it, and the settlement contract releases payment once the agreed threshold is met.
 
 ## Why this is not generic escrow
